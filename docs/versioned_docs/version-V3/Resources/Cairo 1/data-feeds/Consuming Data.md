@@ -14,7 +14,7 @@ The current Pragma addresses are:
 | --------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | StarkNet Mainnet      | 0x2a85bd616f912537c50a49a4076db02c00b29b2cdc8a197ce92ed1837fa875b  | [Starkscan](https://starkscan.co/contract/0x2a85bd616f912537c50a49a4076db02c00b29b2cdc8a197ce92ed1837fa875b) [Voyager](https://voyager.online/contract/0x2a85bd616f912537c50a49a4076db02c00b29b2cdc8a197ce92ed1837fa875b)                               |
 | StarkNet Alpha-Goerli | 0x06df335982dddce41008e4c03f2546fa27276567b5274c7d0c1262f3c2b5d167 | [Starkscan](https://testnet.starkscan.co/contract/0x06df335982dddce41008e4c03f2546fa27276567b5274c7d0c1262f3c2b5d167) [Voyager](https://goerli.voyager.online/contract/0x06df335982dddce41008e4c03f2546fa27276567b5274c7d0c1262f3c2b5d167#transactions) |
-
+| StarkNet Sepolia | 0x5acaa0ef3a6837c98ddeae516fa3f6022018cf646914d921842e46fc00c35d3 | [Starkscan](https://sepolia.starkscan.co/contract/0x5acaa0ef3a6837c98ddeae516fa3f6022018cf646914d921842e46fc00c35d3) [Voyager](https://sepolia.voyager.online/contract/0x5acaa0ef3a6837c98ddeae516fa3f6022018cf646914d921842e46fc00c35d3#transactions) |
 
 ## Sample Code
 
